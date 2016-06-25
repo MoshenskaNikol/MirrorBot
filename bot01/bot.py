@@ -8,7 +8,7 @@ bot = telebot.TeleBot(config.token)
 
 def repeat_all_messages(message): 
     bot.send_message(message.chat.id, message.text)
-    bot.send_message(message.chat.id, "I'm working! Misha, do you proud of me?")
+   
 
 
 if __name__ == '__main__':
