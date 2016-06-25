@@ -1,0 +1,1 @@
+python f:/python/bot03/bot.py
